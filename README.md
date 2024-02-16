@@ -24,7 +24,7 @@ Welcome to a collection of three mini web projects showcasing your proficiency i
 
 <br/>
 
-<img src="ExploreSafar\Screenshots\Home Page.png" alt="ExploreSafar">
+<img src="Explore Safar\Screenshots\Home Page.png" alt="ExploreSafar">
 
 <br/>
 Feel free to clone, fork, and experiment with these projects. Happy coding!
