@@ -20,7 +20,7 @@ Welcome to a collection of three mini web projects showcasing your proficiency i
 
 3. **ExploreSafar - Adventure Tours Project:**
    - Embark on a web development journey with ExploreSafar.
-   - [Explore ExploreSafar](./ExploreSafar)
+   - [Explore ExploreSafar](./Explore Safar)
 
 <br/>
 
