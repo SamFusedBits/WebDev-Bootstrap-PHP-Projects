@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ICC Worldcup Registration</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+
+    <style>
+        body {
+            background-image: url('cricket.jpg');
+            background-size: cover;
+            background-position: center;
+            height: 100vh;
+            margin: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .container {
+            background: rgba(255, 255, 255, 0.8);
+            padding: 20px;
+            border-radius: 10px;
+            width: 400px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <form action="register1.php">
+            <fieldset>
+                <legend class="text-center">
+                    <h1>ICC Worldcup Registration</h1>
+                </legend>
+
+                <div class="mb-3">
+                    <label for="uname" class="form-label">Team Name</label>
+                    <input type="text" class="form-control" id="uname" name="uname" placeholder="Enter your team name">
+                </div>
+                <div class="mb-3">
+                    <label for="uno" class="form-label">No. of Matches Played</label>
+                    <input type="number" class="form-control" id="uno" name="uno" placeholder="No. of matches played">
+                </div>
+                <div class="mb-3">
+                    <label for="uwon" class="form-label">Matches Won</label>
+                    <input type="number" class="form-control" id="uwon" name="uwon" placeholder="Matches won">
+                </div>
+                <div class="mb-3">
+                    <label for="ulost" class="form-label">Matches Lost</label>
+                    <input type="number" class="form-control" id="ulost" name="ulost" placeholder="Matches lost">
+                </div>
+                <div class="mb-3">
+                    <label for="upoints" class="form-label">Total Points</label>
+                    <input type="number" class="form-control" id="upoints" name="upoints" placeholder="Total points">
+                </div>
+
+                <div class="text-center">
+                    <button type="submit" name="action" value="Register" class="btn btn-success">Register</button>
+                    <button type="submit" name="action" value="ShowAll" class="btn btn-primary">Show All</button>
+                    <button type="submit" name="action" value="update" class="btn btn-warning">Update</button>
+                    <button type="submit" name="action" value="search" class="btn btn-info">Search</button><br><br>
+                    <button type="reset" class="btn btn-danger">Clear</button>
+                </div>
+            </fieldset>
+        </form>
+    </div>
+
+</body>
+</html>
