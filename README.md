@@ -10,11 +10,11 @@
 
 2. **Twitter Home Page Clone(Using Bootstrap) - Resume:**
    - Blend creativity with professionalism in a Twitter-inspired resume.
-   - [Twitter Clone Resume](./Twitter-Clone-Resume/)
+   - [Twitter Inspired Resume](./Twitter-Clone-Resume/)
   
   <br/>
 
-  <img src="Twitter-Clone-Resume\HomePage.png" alt="Home Page"/>
+  <img src="Twitter-Inspired-Resume\HomePage.png" alt="Home Page"/>
 
 3. **ExploreSafar - Adventure Tours Project:**
    - Embark on a web development journey with ExploreSafar.
