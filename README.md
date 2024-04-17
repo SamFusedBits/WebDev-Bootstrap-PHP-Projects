@@ -14,7 +14,7 @@
   
   <br/>
 
-  <img src="Twitter-Inspired-Resume\HomePage.png" alt="Home Page"/>
+  <img src="Twitter-Clone-Resume\HomePage.png" alt="Home Page"/>
 
 3. **ExploreSafar - Adventure Tours Project:**
    - Embark on a web development journey with ExploreSafar.
